@@ -8,9 +8,6 @@ A simple Snake game built using Java and Swing.
 - Game over screen
 - Random apple placement
 
-## 📷 Screenshot
-(Add a screenshot here by uploading an image to the repo)
-
 ## 🛠️ Technologies Used
 - Java
 - Java Swing for GUI
